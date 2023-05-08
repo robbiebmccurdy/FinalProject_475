@@ -1,6 +1,5 @@
 # Final Project - CSCI 475 (Introduction to Databases)
-## By - Robbie McCurdy
-### Spring 2023
+## By - Robbie McCurdy, Spring 2023
 
 ## To access - 
 
