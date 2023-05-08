@@ -3,4 +3,4 @@
 
 ## To access - 
 
-This github **only** provides the **code** for this site. To access this site, you must go via this link: https://turing.cs.olemiss.edu/~rbmccurd/FinalProject/read.php
+This github **only** provides the **code** for this site. To access this site, you must go via this [link](https://turing.cs.olemiss.edu/~rbmccurd/FinalProject/read.php).
